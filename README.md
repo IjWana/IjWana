@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IjWana
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and R programming languages
+- 🌱 I’m currently learning JavaScript, MySQL
+- Intermediate Jupyter with Pandas and Numpy
 - 💞️ I’m looking to collaborate on with industry experts in Data Science
 - 📫 How to reach me: raymondijoh@gmail.com
 - 😄 Pronouns: ...
